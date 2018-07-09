@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Barcelona</string>
+
+    <string name="sejarah">
+        Fútbol Club Barcelona, juga dikenal sebagai Barcelona atau Barça,
+        adalah klub sepak bola profesional yang berbasis di Barcelona, Catalunya, Spanyol.
+        Terkait dengan FC Barcelona, sejarah klub dapat dengan jelas dibagi menjadi tiga tahapan utama. \n\n
+
+        Pada awalnya, klub ini selalu perpindah dari lapangan ke lapangan yang lain. Pada tahapan kedua, klub ini menetap
+        dengan menemukan tempat yang tetap di Les Corts. Dan pada tahapan ketiga, dan pembangunan Camp Nou, merefleksikan
+        pengembangan dan kejayaan klub ini dalam skala global. \n\n
+
+        Lapangan Les Corts yang lama, diresmikan pada tahun 1922, dibangun ulang beberapa kali agar memberikan tempat
+        bagi basis fans yang terus berkembang. Setelah Perang Sipil Spanyol, klub ini mulai menarik lebih banyak anggota
+        setiap tahunnya, yang juga berarti jumlah penonton yang jauh lebih besar dalam pertandingan-pertandingan. Dukungan
+        yang meningkat ini merupakan inspirasi bagi beberapa proyek pengembangan, dari gawang selatan (1946), gawang utara (1950),
+        dan kapasitas tribun utama (1944). Namun, menjadi semakin jelas bahwa apa yang sesungguhnya perlu dilakukan klub adalah
+        membangun sebuah stadion yang baru sepenuhnya, dan oleh karena itu, dewan direksi menggabungkan semua pengembangan ini ke
+        Les Corts dengan rencana untuk membuat impian sebuah stadion baru menjadi kenyataan. \n\n
+
+        Didirikan pada tahun 1899 oleh sekelompok pemain Swiss, Inggris dan Catalan yang dipimpin
+        oleh Joan Gamper, klub telah menjadi simbol budaya Catalan dan Catalanisme, yang mempunyai
+        motto "Més que un club" (Lebih dari sebuah klub). Tidak seperti banyak klub sepak bola
+        lainnya, para pendukung memiliki dan mengoperasikan Barcelona. Ia adalah klub sepak bola
+        kedua terkaya di dunia dalam hal pendapatan, dengan omset tahunan sebesar €560,8 juta dan
+        kedua yang paling berharga, senilai $3,56 miliar. Lagu kebangsaan resmi Barcelona adalah
+        "Cant del Barça", yang ditulis oleh Jaume Picas dan Josep Maria Espinas. \n\n
+
+        Klub ini masuk menjadi peserta Primera División (Divisi Utama) sejak tahun 1928, dan bersama-sama
+        Real Madrid dan Athletic Bilbao menjadi tim yang tak pernah terdegradasi ke Segunda División
+        (Divisi Dua). Klub ini juga menjadi klub yang menjuarai liga Spanyol pertama kali. Dengan
+        persembahan 23 gelar Liga Spanyol, 25 gelar Copa del Rey, 10 gelar Piala Super Spanyol, 5 gelar Liga
+        Champions Eropa, 4 gelar Piala UEFA, 4 gelar Piala Super Eropa, FC Barcelona menjadi salah satu tim
+        tersukses di Spanyol, Eropa, dan dunia. Bukti paling nyata ketika pada tahun 2009 FC Barcelona berhasil
+        menjadi klub Spanyol pertama yang berhasil meraih gelar Treble (juara La Liga, Copa del Rey, dan Liga Champions).
+        Dilanjutkan dengan raihan gelar Piala Super Spanyol, Piala Super Eropa dan Piala Dunia Antarklub FIFA untuk
+        melengkapi raihan gelarnya menjadi Sextuples. Barcelona merupakan klub sepak bola pertama di dunia yang melakukan
+        raihan ini. Penggemar Barca juga sering disebut Culés. \n\n
+
+        Barcelona adalah salah satu tim yang paling didukung di dunia, dan memiliki media sosial terbesar di antara tim
+        olahraga lainnya. Pemain Barca telah memenangkan catatan jumlah penghargaan Ballon d'Or (11), serta catatan
+        jumlah penghargaan FIFA World Player of the Year (7). Pada tahun 2010, klub membuat sejarah ketika tiga pemain
+        yang datang melalui akademinya (Messi, Iniesta &amp; Xavi) terpilih sebagai tiga pemain terbaik di dunia, setelah
+        mengantongi tempat teratas di FIFA Ballon d'Or, prestasi belum pernah terjadi sebelumnya untuk pemain dari sekolah sepak
+        bola yang sama. \n\n
+    </string>
+
+    <string name="manajemen">
+        Saat ini barcelona di ketuai oleh <b>Josep Maria Bartomeu</b> sebagai <b>presiden</b>,
+        dan <b>Wakil presiden bidang sosial</b> adalah Jordi Cardoner. Berikut daftar manajemen Barcelona \n\n
+
+        Presiden : Josep Maria Bartomeu \n\n
+        Wakil presiden bidang sosial : Jordi Cardoner \n\n
+        Dewan sekretaris : Antoni Freixa \n\n
+        Bendahara : Susana Monje \n\n
+        Direktur bidang sosial : Pilar Guinovart \n\n
+        Direktur bidang sosial : Ramon Pont
+    </string>
+
+    <string name="prestasi">
+        Hingga Mei 2016, Barcelona telah memenangkan 24 La Liga, 28 Copa del Rey, 12 Supercopa de España,
+        3 Copa Eva Duarte dan 2 piala Copa de la Liga, serta menjadi pemegang rekor untuk empat kompetisi terakhir. Juga mereka
+        telah memenangkan 5 Liga Champions, rekor 4 Piala Winners UEFA, 5 Piala Super UEFA dan tiga rekor Piala Dunia Antarklub
+        FIFA. Mereka juga memenangkan rekor 3 Piala Inter - Cities Fairs, dianggap pendahulu ke Piala UEFA - Liga Eropa. \n\n
+
+        Barcelona adalah satu-satunya klub Eropa telah memainkan sepak bola kontinental setiap musim sejak 1955, dan salah satu
+        dari tiga klub tidak pernah terdegradasi dari La Liga, bersama dengan Athletic Bilbao dan Real Madrid. Pada tahun 2009,
+        Barcelona menjadi klub pertama di Spanyol untuk memenangkan treble terdiri dari La Liga, Copa del Rey, dan Liga Champions.
+        Pada tahun yang sama, juga menjadi klub sepak bola pertama yang memenangkan enam dari enam kompetisi dalam satu tahun,
+        Malthus menyelesaikan sextuple itu, Terdiri treble tersebut dan Piala Super Spanyol, Piala Super UEFA dan Piala Dunia
+        Antarklub FIFA.
+    </string>
+
+    <string name="sponsor">
+        Sponsor Utama : Nike &amp; Rakuten \n\n
+        Sponsor Premium : beko, Gillete, ESTRELLA Damm, KONAMI, CaixaBank, AUDI \n\n
+        Sponsor Official : OPPO, GATORADE, MILO, BETFAIR, STANLEY BLACK &amp; DECKER, LASSA, ALIANZ, NESQUIK, CANON MEDICAL SYSTEMS, DEEZER
+    </string>
+</resources>
